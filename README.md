@@ -1,2 +1,3 @@
 # mongoose-cursor-pagination-alt
-An alternative of mongo-cursor-pagination plugin
+
+An alternative to `mongo-cursor-pagination` plugin
